@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/shane/workspace/arvr/build"
+			"value" : "/home/shane/workspace/2021H1/ar-vr/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/shane/workspace/arvr"
+			"value" : "/home/shane/workspace/2021H1/ar-vr"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -836,6 +836,66 @@
 			],
 			"type" : "STATIC",
 			"value" : "Tutorial"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "1.0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1127,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/shane/workspace/arvr/build"
+			"value" : "/home/shane/workspace/2021H1/ar-vr/build"
 		},
 		{
 			"name" : "Tutorial_SOURCE_DIR",
@@ -1139,7 +1199,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/shane/workspace/arvr"
+			"value" : "/home/shane/workspace/2021H1/ar-vr"
 		}
 	],
 	"kind" : "cache",

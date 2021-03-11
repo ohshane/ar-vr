@@ -1,7 +1,12 @@
 cmake_minimum_required(VERSION 3.10)
 
-# set the project name
-project(Tutorial)
+# set the project name and version
+project(Tutorial VERSION 1.0)
 
-# add the executable
-add_executable(Tutorial main.cpp)
+# specify the C++ standard
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+add_executable(Hello main.cpp)
+add_executable(Multiply_7 multiply.cpp)
+add_executable(Swap swap.cpp)

@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello-Debug-0306f2794a3cc1dcb97a.json",
+					"name" : "Hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Multiply_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multiply_7-Debug-18ed1b6ae82aaef8ddcd.json",
+					"name" : "Multiply_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Swap-Debug-86f9a1baac029ba9900e.json",
+					"name" : "Swap",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shane/workspace/2021H1/ar-vr/build",
+		"source" : "/home/shane/workspace/2021H1/ar-vr"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
